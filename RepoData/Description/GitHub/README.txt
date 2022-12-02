@@ -1,1 +1,1 @@
- The new approach to Git repo templates, an ultimate template culminated in less than 2 weeks that combines all template categories into one. A very powerful Git template. 
+Candroid Photo Viewer is the default image viewer for Candroid. It supports all the image formats Android does, except it supports NetP instead of NetP
